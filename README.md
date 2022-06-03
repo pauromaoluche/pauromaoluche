@@ -1,7 +1,5 @@
 # 🌎 Um Pouco Sobre mim 👱
-Bom, me apresentando rapidamente, eu me chamo **Pedro**, atualmente sou formado **Analise e Desenvolvimento De Sistemas**  **(Faccar)** 📖, e desde pequeno eu sempre gostei do assunto, **tecnologia da informação** 💻, então vim me interessando cada vez mais e mais no assunto, sempre aprendendo algo novo, e eu acabei me identificando com o **Front-End**, sou apaixonado por **HTML**, **CSS**, e **JS**, estou estudando cada vez mais e mais sobre a área. Atualmente Trabalho na empresa BWF Soluções em T.i, como desenvolvedor Front-end, então deixarei alguns de meus trabalhos desenvolvimentos logo a baixo. **Obrigado por ter lido até aqui** 👍.
-**Front-end Desenvolvidos**
-https://site.elitesoft.com.br/
+Bom, me apresentando rapidamente, eu me chamo **Pedro**, Sou formado **Analise e Desenvolvimento De Sistemas**  **(Faccar)** 📖, Atualmente trabalho na Elite Soft LTDA, tenho meu foco no front-end, conheço um pouco de alguns frameworks em geral, Angular, VueJs, Yii2, Laravel entre outros, mas o meu foco é realmente no front-end, em deixar uma aplicação web bonita e responsiva, mesmo ja tendo terminado a faculdade, estou sempre procurando estudar alguns materias novos, minhas principais bases de estudo, são o youtube, e a udemy. **Obrigado por ter lido até aqui** 👍.
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
