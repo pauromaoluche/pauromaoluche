@@ -6,9 +6,12 @@ Bom, me apresentando rapidamente, eu me chamo **Pedro**, Sou formado **Analise e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromaoluche&layout=compact)](https://github.com/pauromaoluche)
 
 **Projetos em que participei**
-**Elitesoft:** https://www.elitesoft.com.br/ //Fiz tanto o front-end quanto o back-end
-**Hospital do coração de londrina:** https://www.hospcoracao.com.br/ //Front-end
-**Twinkle Little Star:** https://tlslearningcenter.com/ //Front-end e Back-end
+**Elitesoft:** https://www.elitesoft.com.br/ //Fiz tanto o front-end quanto o back-end  
+
+**Hospital do coração de londrina:** https://www.hospcoracao.com.br/ //Front-end  
+
+**Twinkle Little Star:** https://tlslearningcenter.com/ //Front-end e Back-end  
+
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
