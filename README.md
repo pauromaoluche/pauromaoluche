@@ -21,3 +21,5 @@ Bom, me apresentando rapidamente, eu me chamo **Pedro**, Sou formado **Analise e
 <br><p align="center"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pauromaoluche}/count.svg" /></p> 
 <br></div>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=pauromaoluche&repo=github-visitors-badge&countColor=%237B1E7A)
