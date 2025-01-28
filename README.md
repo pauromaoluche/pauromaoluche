@@ -15,7 +15,7 @@ Bom, me apresentando rapidamente, eu me chamo **Pedro**, Sou formado **Analise e
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
-](https://www.linkedin.com/in/pedro-henrique-rom%C3%A3o-pauluci-572401206/)
+](www.linkedin.com/in/pedro-pauluci)
 
 <div align="center">
 <br><p align="center"><b>Visitantes</b></p>  
