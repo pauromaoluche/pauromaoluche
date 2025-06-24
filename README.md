@@ -5,9 +5,7 @@ Bom, me apresentando rapidamente, eu me chamo **Pedro**, Sou formado **Analise e
 
 ![pauromaoluche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauromaoluche&theme=dark&hide_border=false)
 
-![pauromaoluche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromaoluche&theme=dark&show_icons=true&hide_border=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromaoluche&layout=compact)](https://github.com/pauromaoluche)
+![pauromaoluche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromaoluche&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 **Projetos em que participei**
 **Elitesoft:** https://www.elitesoft.com.br/ //Fiz tanto o front-end quanto o back-end  
