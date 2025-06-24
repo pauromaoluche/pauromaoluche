@@ -3,6 +3,12 @@ Bom, me apresentando rapidamente, eu me chamo **Pedro**, Sou formado **Analise e
 
 ![Pedro Pauluci GitHub stats](https://github-readme-stats.vercel.app/api?username=pauromaoluche&show_icons=true&theme=tokyonight)
 
+![pauromaoluche's Stats](https://github-readme-stats.vercel.app/api?username=pauromaoluche&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![pauromaoluche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauromaoluche&theme=dark&hide_border=false)
+
+![pauromaoluche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromaoluche&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromaoluche&layout=compact)](https://github.com/pauromaoluche)
 
 **Projetos em que participei**
