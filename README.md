@@ -11,11 +11,8 @@ PHP • Laravel • Yii2 • .NET • MySQL • Docker • Git • DDD • SOLID
 ## Projetos
 
 🚀 SaaS Multi-tenant desenvolvido em Laravel
-
 ⚙️ Gerador automático de CRUD e Models
-
 🛒 E-commerce em Laravel
-
 🔌 APIs REST
 
 ## Contato
